@@ -1,0 +1,25 @@
+{
+  "name": "fhnw-raumsuche",
+  "version": "0.2.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "generate:rooms": "node --experimental-strip-types scripts/generate-room-codes.ts"
+  },
+  "dependencies": {
+    "firebase": "^12.12.0",
+    "next": "^16.2.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.3",
+    "@types/react": "19.1.2",
+    "@types/react-dom": "19.1.2",
+    "typescript": "5.8.3"
+  }
+}
