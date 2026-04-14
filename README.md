@@ -54,8 +54,6 @@ Firebase wird nur für einen einfachen anonymen Seitenzähler verwendet.
 - Keine Benutzerkonten
 - Kein personenbezogenes Tracking
 
-Die benötigten Variablen sind in `.env.example` dokumentiert.
-
 ## Entwicklung
 
 - Erster Prototyp mit kleiner hartcodierter Datenbasis
