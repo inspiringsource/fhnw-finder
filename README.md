@@ -12,7 +12,7 @@ Dieses Projekt ist ein inoffizielles Studentenprojekt und wird nicht von der FHN
 
 ## Zweck
 
-Die App hilft dabei, eine sichtbare Raumbezeichnung wie `6.3A55` mit dem passenden internen Plan-Code zu verknüpfen und daraus direkt den richtigen Raumplan anzuzeigen.
+Die App hilft dabei, eine sichtbare Raumbezeichnung wie `6.3A55` mit dem passenden Plan-Code zu verknüpfen und daraus direkt den richtigen Raumplan anzuzeigen.
 
 Aktuell ist die App für FHNW Brugg-Windisch ausgelegt.
 
